@@ -56,3 +56,4 @@
 2024-11-12 09:09:46 - feat: implement model evaluation metrics
 2024-11-12 10:40:46 - feat: integrate logging and error handling
 2024-11-14 14:25:46 - chore: update requirements.txt
+2024-11-14 19:08:46 - feat: add data visualization layer
