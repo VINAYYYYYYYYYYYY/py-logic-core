@@ -81,3 +81,4 @@
 2025-03-25 15:51:46 - docs: add comprehensive README
 2025-03-25 09:57:46 - feat: integrate logging and error handling
 2025-03-25 11:19:46 - refactor: optimize data loading performance
+2025-03-27 15:04:46 - fix: resolve dependency conflicts
