@@ -95,3 +95,4 @@
 2025-05-18 13:49:46 - test: add unit tests for model validation
 2025-05-18 19:29:46 - test: add unit tests for model validation
 2025-05-18 16:59:46 - feat: integrate logging and error handling
+2025-05-26 09:17:46 - fix: resolve dependency conflicts
