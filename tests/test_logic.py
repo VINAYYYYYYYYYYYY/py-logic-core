@@ -1,0 +1,1 @@
+import unittest\nfrom src.main import LinkedList\n\nclass TestLogic(unittest.TestCase):\n    def test_linked_list(self):\n        ll = LinkedList()\n        ll.append(1)\n        self.assertEqual(ll.head.data, 1)\n\nif __name__ == '__main__':\n    unittest.main()

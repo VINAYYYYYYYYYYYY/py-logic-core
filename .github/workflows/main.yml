@@ -1,0 +1,1 @@
+name: Logic CI\non: [push]\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n    - uses: actions/checkout@v3\n    - name: Run tests\n      run: python -m unittest discover tests
